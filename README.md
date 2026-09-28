@@ -87,7 +87,7 @@ Essas soft skills são parte integrante da experiência do aplicativo, tornando-
 
 ## 💬 Conclusão
 
-Este projeto mostra como é possível criar um **App de Finanças Pessoais** usando IA como parceira criativa.  ## 🔗 Link do Aplicativo
+Este projeto mostra como é possível criar um **App de Finanças Pessoais** usando IA como parceira criativa. 
 
 Acesse a versão publicada do app aqui: [Seu Dinheiro Sorri](https://seu-dinheiro-sorri.lovable.app/)  
 *(Este link é apenas para visualização e uso, sem permissão de edição.)*
