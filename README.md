@@ -87,6 +87,10 @@ Essas soft skills são parte integrante da experiência do aplicativo, tornando-
 
 ## 💬 Conclusão
 
-Este projeto mostra como é possível criar um **App de Finanças Pessoais** usando IA como parceira criativa.  
+Este projeto mostra como é possível criar um **App de Finanças Pessoais** usando IA como parceira criativa.  ## 🔗 Link do Aplicativo
+
+Acesse a versão publicada do app aqui: [Seu Dinheiro Sorri](https://seu-dinheiro-sorri.lovable.app/)  
+*(Este link é apenas para visualização e uso, sem permissão de edição.)*
+
 O foco não foi escrever código, mas sim aprender a **pensar junto com a IA**, transformando ideias em conceitos reais.  
 O Vibe Coding é sobre clareza, curiosidade e criatividade — cada interação é um experimento que aproxima a solução da vibe desejada.
